@@ -1,0 +1,13 @@
+{
+    "folders":
+    [
+        {
+            "path": ".",
+            "folder_exclude_patterns": ["media", 
+                                        "{{ project_name }}/front_end/static/public", 
+                                        "{{ project_name }}/front_end/node_modules",
+                                        "{{ project_name }}/front_end/static/node_modules"
+                                        ]
+        }
+    ]
+}

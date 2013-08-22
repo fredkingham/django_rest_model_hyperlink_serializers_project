@@ -1,0 +1,2911 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"carro",
+				"carrot_data"
+			],
+			[
+				"Veg",
+				"VegetableSerializer"
+			],
+			[
+				"H",
+				"ModelOrHyperlinkRelationField"
+			],
+			[
+				"Vege",
+				"Vegetable"
+			],
+			[
+				"VEge",
+				"VegetableSerializer"
+			],
+			[
+				"Ve",
+				"VegetableSerializer"
+			],
+			[
+				"veget",
+				"vegetables"
+			],
+			[
+				"vege",
+				"vegetable_set"
+			],
+			[
+				"carr",
+				"carrot_soup"
+			],
+			[
+				"Meal",
+				"MealSerializer"
+			],
+			[
+				"veg",
+				"vegetable_set"
+			],
+			[
+				"oth",
+				"other_dark_blue"
+			],
+			[
+				"Query",
+				"EventQuerySet"
+			],
+			[
+				"und",
+				"underLyingModel"
+			],
+			[
+				"un",
+				"underLyingModel"
+			],
+			[
+				"tast",
+				"tasty_pagination"
+			],
+			[
+				"ob",
+				"observable"
+			],
+			[
+				"query",
+				"query_response"
+			],
+			[
+				"rev",
+				"reverseMatch"
+			],
+			[
+				"ap",
+				"applicable_filters"
+			],
+			[
+				"User",
+				"UserEventResource"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"obj_",
+				"obj_get_list"
+			],
+			[
+				"user",
+				"userStream"
+			],
+			[
+				"res",
+				"resourceUri"
+			],
+			[
+				"upd",
+				"upLoadedItems"
+			],
+			[
+				"fo",
+				"focussedModel"
+			],
+			[
+				"split",
+				"splitted"
+			],
+			[
+				"spli",
+				"splitField"
+			],
+			[
+				"pro",
+				"proccessModal"
+			],
+			[
+				"ko",
+				"ko:binding	knockoutjs binding handler"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"src",
+				"srcRef"
+			],
+			[
+				"value",
+				"valueAccessor"
+			],
+			[
+				"bind",
+				"bindingHandlers"
+			],
+			[
+				"func",
+				"funcToCall"
+			],
+			[
+				"observ",
+				"observableArray"
+			],
+			[
+				"new",
+				"newValueObs"
+			],
+			[
+				"targe",
+				"targetObservable"
+			],
+			[
+				"data",
+				"dataStructures"
+			],
+			[
+				"bin",
+				"bindingHandlers"
+			],
+			[
+				"template",
+				"templateName"
+			],
+			[
+				"create",
+				"createModalElement"
+			],
+			[
+				"current",
+				"currentUserObj"
+			],
+			[
+				"curr",
+				"currentUser"
+			],
+			[
+				"curre",
+				"currentUserObj"
+			],
+			[
+				"call",
+				"callBack"
+			],
+			[
+				"u",
+				"usersAttendingStatus"
+			],
+			[
+				"first",
+				"firstDate"
+			],
+			[
+				"populat",
+				"populateAttendences"
+			],
+			[
+				"start",
+				"startDate"
+			],
+			[
+				"atten",
+				"attending"
+			],
+			[
+				"obj",
+				"obj_create"
+			],
+			[
+				"model",
+				"modelPageView"
+			],
+			[
+				"came",
+				"camelizeObject"
+			],
+			[
+				"ca",
+				"camelizeObject"
+			],
+			[
+				"is",
+				"isObject"
+			],
+			[
+				"date",
+				"date_from_moment"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"Invi",
+				"InviteResource"
+			],
+			[
+				"mo",
+				"modelFields"
+			],
+			[
+				"atted",
+				"attendingStatus"
+			],
+			[
+				"att",
+				"attendingStatus"
+			],
+			[
+				"atte",
+				"attendingStatus"
+			],
+			[
+				"attend",
+				"attending_status"
+			],
+			[
+				"mode",
+				"modelPromises"
+			],
+			[
+				"save",
+				"saveRelated"
+			],
+			[
+				"attending",
+				"attendingStatus"
+			],
+			[
+				"Event",
+				"EventResource"
+			],
+			[
+				"field_",
+				"field_object"
+			],
+			[
+				"field",
+				"field_name"
+			],
+			[
+				"pub",
+				"publicStatus"
+			],
+			[
+				"ate",
+				"attending_status"
+			],
+			[
+				"aja",
+				"ajaxSettings"
+			],
+			[
+				"json",
+				"jsonSelf"
+			],
+			[
+				"con",
+				"constructor"
+			],
+			[
+				"js",
+				"jsonSelf"
+			],
+			[
+				"post",
+				"postCompile"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"resou",
+				"resource_name"
+			],
+			[
+				"pu",
+				"publicStatus"
+			],
+			[
+				"acc",
+				"acceptInvitedStatus"
+			],
+			[
+				"obser",
+				"observableArray"
+			],
+			[
+				"lo",
+				"loggedInUser"
+			],
+			[
+				"rela",
+				"relatedName"
+			],
+			[
+				"crea",
+				"createAttendingStatus"
+			],
+			[
+				"dele",
+				"deletedPromise"
+			],
+			[
+				"construct",
+				"constructUrl"
+			],
+			[
+				"re",
+				"resource_uri"
+			],
+			[
+				"delete",
+				"deleteData"
+			],
+			[
+				"map",
+				"mapObject"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"auth",
+				"authorization"
+			],
+			[
+				"Tra",
+				"TrackingCalResource"
+			],
+			[
+				"Venue",
+				"VenueResource"
+			],
+			[
+				"attr",
+				"attribute"
+			],
+			[
+				"objet",
+				"object_list"
+			],
+			[
+				"object",
+				"object_list"
+			],
+			[
+				"Http",
+				"HttpResponse"
+			],
+			[
+				"va",
+				"valueAccessor"
+			],
+			[
+				"scrol",
+				"scrollSpy"
+			],
+			[
+				"goTo",
+				"goToField"
+			],
+			[
+				"su",
+				"subscribe"
+			],
+			[
+				"fir",
+				"firstInScope"
+			],
+			[
+				"par",
+				"partialCallback"
+			],
+			[
+				"loadFrom",
+				"loadFromDate"
+			],
+			[
+				"in",
+				"infiniteMenu"
+			],
+			[
+				"eq",
+				"equalityFunc"
+			],
+			[
+				"all",
+				"allBindingsAccessor"
+			],
+			[
+				"firs",
+				"firstMatching"
+			],
+			[
+				"sort",
+				"sortBy  (variable)"
+			],
+			[
+				"loaded",
+				"loadedItems"
+			],
+			[
+				"star",
+				"startDate"
+			],
+			[
+				"go",
+				"goPrevious"
+			],
+			[
+				"dateLin",
+				"datelineModelConfi"
+			],
+			[
+				"seri",
+				"series_id"
+			],
+			[
+				"dist",
+				"distinctTotal"
+			],
+			[
+				"dis",
+				"distinctTotal"
+			],
+			[
+				"load",
+				"loadedItems"
+			],
+			[
+				"event",
+				"eventConstructor"
+			],
+			[
+				"genera",
+				"generateArrayFuncs"
+			],
+			[
+				"end",
+				"endFunctions"
+			],
+			[
+				"rout",
+				"routedFunc"
+			],
+			[
+				"rel",
+				"relativeUrl"
+			],
+			[
+				"old",
+				"oldD"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"replace",
+				"replaceState"
+			],
+			[
+				"act",
+				"activateCallback"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "django_rest_model_hyperlink_serializers/main/tests.py",
+			"settings":
+			{
+				"buffer_size": 4022,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "django_rest_model_hyperlink_serializers/django_rest_model_hyperlink_serializers/settings.py",
+			"settings":
+			{
+				"buffer_size": 5670,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "django_rest_model_hyperlink_serializers/main/serializers.py",
+			"settings":
+			{
+				"buffer_size": 807,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "django_rest_model_hyperlink_serializers/main/models.py",
+			"settings":
+			{
+				"buffer_size": 237,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "django_rest_model_hyperlink_serializers/django_rest_model_hyperlink_serializers/urls.py",
+			"settings":
+			{
+				"buffer_size": 690,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "django_rest_model_hyperlink_serializers/main/test_resources/urls.py",
+			"settings":
+			{
+				"buffer_size": 100,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/builds/django-test.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"Snippet: newM",
+				"Snippet: simple knockoutjs viewModel"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"javas",
+				"Format: Javascript"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Format: Javascript"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"packack",
+				"Package Control: Install Package"
+			],
+			[
+				"gir",
+				"Gist: Open Gist in Browser"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"instalp",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sninew",
+				"Snippet: newClass"
+			],
+			[
+				"snipp",
+				"Snippet: newClass"
+			],
+			[
+				"knockou",
+				"Snippet: simple knockoutjs viewModel"
+			],
+			[
+				"kn",
+				"Snippet: knockoutjs observable"
+			],
+			[
+				"packain",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet",
+				"Snippet: newClass"
+			],
+			[
+				"snima",
+				"Snippet: __magic__"
+			]
+		],
+		"width": 482.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/fredkingham/Documents/scripts/django_rest_model_hyperlink_serializers_project/django_rest_model_hyperlink_serializers/main/test_resources.py/urls.py",
+		"/Users/fredkingham/Documents/scripts/sparrows_project/sparrows/main/cron_jobs.py",
+		"/Users/fredkingham/Documents/scripts/sparrows/about2.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/modals/invite.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/email_event.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/event_right_side.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/models/invite.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/dataLoader.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/mainPage/api.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/extenders/deferredArray.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/models/event.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/model.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/side_bar.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/event_menu.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/urlRouter.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/modelPageView.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/main/urls.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/twitter/urls.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/figg/urls.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/main/templates/starter.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/app/main/views/main/css/style.scss",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/bindingHandlers/adhocHandlers.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/figg_calendar/api.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/mainPage/fields.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/main/models.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/mainPage/models.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/bindingHandlers/modal.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/app/main/views/main/js/modals.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/urlService.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/trackingCalendar.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/modals/hello.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/modals/hello.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/models/events.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/models/invited.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/app/main/views/main/css/style.css",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/node_modules/compass-brunch/node_modules/brunch/test/fixtures/vendor/styles/helpers.css",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/modelPageView.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/event_new.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/mainPage/note_calculation.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/app/main/views/main/js/event.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/models/attendingStatus.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/figg/settings.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/models.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/mainPage/admin.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/tests.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/tweepy/tests.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/twitter/tests.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/common/test_functions.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/mainPage/event_option.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/mail_calculation.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/utils/invite_sent_check.py",
+		"/Users/fredkingham/Documents/scripts/nats_project/nat/javaForJo.java",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/app/main/views/main/js/forms.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/public/js/main.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/mainPage/event_calculation.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/app/main/views/main/js/dateLine.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/models/dateline.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/mainPage/views.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/main/templates/date_line.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/bindingHandlers/infiniteMenu.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/mainPage/event_holder.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/presentation.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/bindingHandlers/scrollSpy.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/js/observables/observableDate.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/date_banner.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/standalone/mock_event_data.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/figg_calendar/views.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/urls.py",
+		"/Users/fredkingham/Documents/scripts/fredkingham_site_project/fredkingham_site/blog/admin.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/main/templates/common_parts/event.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/main/templates/index.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/main/templates/create_venue.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/response.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/figg_calendar/urls.py",
+		"/Users/fredkingham/Documents/scripts/fredkingham_site_project/fredkingham_site/blog/models.py",
+		"/Users/fredkingham/Documents/scripts/fredkingham_site_project/fredkingham_site/fredkingham_site/settings.py",
+		"/Users/fredkingham/Documents/scripts/fredkingham_site_project/fredkingham_site/blog/views.py",
+		"/Users/fredkingham/Documents/scripts/fredkingham_site_project/fredkingham_site/front_end/static/config.coffee",
+		"/Users/fredkingham/Documents/scripts/fredkingham_site_project/fredkingham_site/blog/templates/right-side.html",
+		"/Users/fredkingham/Documents/scripts/fredkingham_site_project/fredkingham_site/fredkingham_site/urls.py",
+		"/Users/fredkingham/Documents/scripts/fredkingham_site_project/fredkingham_site/blog/urls.py",
+		"/Users/fredkingham/Documents/scripts/fredkingham_site_project/fredkingham_site/blog/templates/generic_post.html",
+		"/Users/fredkingham/Documents/scripts/fredkingham_site_project/fredkingham_site/blog/templates/specific_pages/snowdon.html",
+		"/Users/fredkingham/Documents/scripts/fredkingham_site_project/fredkingham_site/blog/templates/base.html",
+		"/Users/fredkingham/Documents/scripts/fredkingham_site_project/fredkingham_site/blog/templates/snowdon.html",
+		"/Users/fredkingham/Documents/scripts/fredkingham_site_project/fredkingham_site/blog/specific_pages/templates/snowdon.html",
+		"/Users/fredkingham/Documents/scripts/fredkingham_site_project/fredkingham_site/front_end/static/app/assets/index.html",
+		"/Users/fredkingham/Documents/scripts/fredkingham_site_project/fredkingham_site.sublime-workspace",
+		"/Users/fredkingham/Documents/scripts/hello.txt",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/notification_types.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/queue_writer.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/views.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/standalone/standalone_utils.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/app/assets/css/notifications/email.css",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/mail_base.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/main/static/css/style.css",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/main/templates/site_base.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/mainPage/attending_status_holder.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/main/templates/attending_names_and_tags.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/vendor/sammy/sammy.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/app/main/views/main/js/urls.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/vendor/bootstrap/css/bootstrap.css",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/event_page.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/email_notes.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/queue_reader.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/notification_calculation.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/config.coffee",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/newsletter.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/main/templates/left_side.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/vendor/bootstrap/css/bootstrap-responsive.css",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/templates/blah.xml",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/app/main/views/main/js/eventHolder.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/mainPage/forms.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/main/templates/notification.txt",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/mainPage/event.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/app/main/views/main/js/app.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/app/main/views/main/js/main_page_app.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/notifications/tasks.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/mainPage/event_holder_new.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/common/custom_fields.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/app/main/views/main/js/dateTitle.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/app/main/views/main/js/calTag.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/twitter/user_details_calculation.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/twitter/models.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/mainPage/venue_calculation.py",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/main/templates/tracking_holder.html",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg/front_end/static/app/main/views/main/js/trackingHolder.js",
+		"/Users/fredkingham/Documents/scripts/figg_project/figg.sublime-project"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"*.py",
+			"",
+			".",
+			"*",
+			".",
+			"*.py",
+			"*",
+			".",
+			"*.js",
+			"*",
+			"urls.py",
+			"*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"or",
+			"FakeSerializer",
+			"get_api",
+			"api",
+			"bg1",
+			"bg2",
+			"small-link",
+			"box",
+			"Fixtures",
+			"span3",
+			"span10 offset1",
+			"result-row",
+			"about-page",
+			"h2",
+			"p",
+			"Twitter",
+			".title",
+			"p{",
+			"title",
+			"left",
+			"999",
+			"requst",
+			"super",
+			"query",
+			"items",
+			"loading",
+			"updateLink",
+			"paginator",
+			"Paginator",
+			"super",
+			"get",
+			"getMore",
+			"moreCallBack",
+			"loadCallback",
+			"callBack",
+			"objects",
+			"get_list",
+			"TEMPLATE_CONTEXT_PROCESSORS",
+			"paginator",
+			"presentation",
+			"modelPageView.models.userStream ",
+			"callBack",
+			"getMore",
+			"events",
+			"moreCallBack",
+			"previous",
+			"scrollOptions",
+			"events",
+			"Events",
+			"events",
+			"subField",
+			"allowed",
+			"apply_filters",
+			"obj_get_list",
+			"get_list",
+			"we get here",
+			"apply_sor",
+			"get_list",
+			"process",
+			"font-fam",
+			"Event",
+			"data",
+			"modelPageView",
+			"console.log",
+			"reverseMatch",
+			"selected",
+			"return",
+			"invite",
+			"selectedFromList",
+			"selected",
+			"blue",
+			".blue",
+			"blue",
+			"header-spa",
+			"section",
+			"pre",
+			"about",
+			"1em",
+			"p{",
+			"section",
+			"about",
+			"span10 offset1",
+			">",
+			"right",
+			"h1",
+			"src",
+			"WHITE",
+			"about",
+			"white",
+			"title",
+			"sub-header",
+			"span6",
+			"sub-header",
+			"go_big",
+			"none",
+			"click",
+			"trackingCal",
+			"TrackingCal",
+			"trackingCal",
+			"TrackingCal",
+			"trackingCal",
+			"target",
+			" \n",
+			"v1_api",
+			"Modal",
+			"modal",
+			"addClass",
+			"hide",
+			"on('load",
+			"load",
+			"consol",
+			"registerEven",
+			"click",
+			"picture_border_color",
+			"twitter",
+			"title-spa",
+			"title",
+			"h4",
+			"h3",
+			"picture_section",
+			"font-weight",
+			"public",
+			"leaguegothic",
+			"span3 of",
+			"about",
+			"h4",
+			"title",
+			"9 May"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"self.client",
+			"test_functions",
+			"=",
+			"user__user_details__user_img_normal",
+			"attending_status right",
+			"tracking_calculation",
+			"attendee_tag",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "django_rest_model_hyperlink_serializers/main/tests.py",
+					"settings":
+					{
+						"buffer_size": 4022,
+						"regions":
+						{
+							"bookmark_i":
+							{
+								"flags": 144,
+								"regions":
+								[
+									[
+										1783,
+										1783
+									]
+								]
+							}
+						},
+						"selection":
+						[
+							[
+								3387,
+								3387
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 851.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "django_rest_model_hyperlink_serializers/django_rest_model_hyperlink_serializers/settings.py",
+					"settings":
+					{
+						"buffer_size": 5670,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								519,
+								519
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1360.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "django_rest_model_hyperlink_serializers/main/serializers.py",
+					"settings":
+					{
+						"buffer_size": 807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								260
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "django_rest_model_hyperlink_serializers/main/models.py",
+					"settings":
+					{
+						"buffer_size": 237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								237,
+								237
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "django_rest_model_hyperlink_serializers/django_rest_model_hyperlink_serializers/urls.py",
+					"settings":
+					{
+						"buffer_size": 690,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								690,
+								690
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "django_rest_model_hyperlink_serializers/main/test_resources/urls.py",
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 192.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"urls",
+				"django_rest_model_hyperlink_serializers/main/test_resources/urls.py"
+			],
+			[
+				"url",
+				"django_rest_model_hyperlink_serializers/main/test_resources/urls.py"
+			],
+			[
+				"main.url",
+				"/Users/fredkingham/Documents/scripts/django_rest_model_hyperlink_serializers_project/django_rest_model_hyperlink_serializers/main/test_resources.py/urls.py"
+			],
+			[
+				"testurl",
+				"django_rest_model_hyperlink_serializers/main/test_resources.py/urls.py"
+			],
+			[
+				"urls.py",
+				"django_rest_model_hyperlink_serializers/django_rest_model_hyperlink_serializers/urls.py"
+			],
+			[
+				"models",
+				"django_rest_model_hyperlink_serializers/main/models.py"
+			],
+			[
+				"ser",
+				"django_rest_model_hyperlink_serializers/main/serializers.py"
+			],
+			[
+				"sett",
+				"django_rest_model_hyperlink_serializers/django_rest_model_hyperlink_serializers/settings.py"
+			],
+			[
+				"test",
+				"django_rest_model_hyperlink_serializers/main/tests.py"
+			],
+			[
+				"view",
+				"figg/figg_calendar/views.py"
+			],
+			[
+				"seria",
+				"figg/figg_calendar/serializers.py"
+			],
+			[
+				"tests",
+				"django-rest-model-hyperlink-serializers/tests.py"
+			],
+			[
+				"man",
+				"nat/main/management/commands/process_tweets.py"
+			],
+			[
+				"socia",
+				"sparrows/main/social_network_api.py"
+			],
+			[
+				"cron",
+				"sparrows/main/cron_jobs.py"
+			],
+			[
+				"respon",
+				"responsive-nav.js"
+			],
+			[
+				"train",
+				"training.html"
+			],
+			[
+				"about2",
+				"about2.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"about",
+				"about.html"
+			],
+			[
+				"style.",
+				"static/app/views/main/css/style.scss"
+			],
+			[
+				"html",
+				"index.html"
+			],
+			[
+				"right",
+				"figg/notifications/templates/event_right_side.html"
+			],
+			[
+				"modal.js",
+				"figg/notifications/templates/js/bindingHandlers/modal.js"
+			],
+			[
+				"def",
+				"figg/notifications/templates/js/extenders/deferredArray.js"
+			],
+			[
+				"invite",
+				"figg/notifications/templates/modals/invite.html"
+			],
+			[
+				"model.js",
+				"figg/notifications/templates/js/model.js"
+			],
+			[
+				"",
+				"figg/notifications/templates/js/extenders/deferredArray.js"
+			],
+			[
+				"trackin",
+				"figg/notifications/templates/js/models/trackingCal.js"
+			],
+			[
+				"api.p",
+				"figg/mainPage/api.py"
+			],
+			[
+				"api.py",
+				"figg/mainPage/api.py"
+			],
+			[
+				"api",
+				"figg/mainPage/api.py"
+			],
+			[
+				"datalo",
+				"figg/notifications/templates/js/dataLoader.js"
+			],
+			[
+				"tracking",
+				"figg/notifications/templates/js/models/trackingCal.js"
+			],
+			[
+				"track",
+				"figg/notifications/templates/js/trackingCalendar.js"
+			],
+			[
+				"user",
+				"figg/notifications/templates/js/models/user.js"
+			],
+			[
+				"invite.html",
+				"figg/notifications/templates/modals/invite.html"
+			],
+			[
+				"invit",
+				"figg/notifications/templates/modals/invite.html"
+			],
+			[
+				"email_eve",
+				"figg/notifications/templates/email_event.html"
+			],
+			[
+				"trackincal",
+				"figg/notifications/templates/js/models/trackingCal.js"
+			],
+			[
+				"tracki",
+				"figg/notifications/templates/js/trackingCalendar.js"
+			],
+			[
+				"data",
+				"figg/notifications/templates/js/dataLoader.js"
+			],
+			[
+				"email_even",
+				"figg/notifications/templates/email_event.html"
+			],
+			[
+				"invite.ht",
+				"figg/notifications/templates/modals/invite.html"
+			],
+			[
+				"menu",
+				"figg/notifications/templates/event_menu.html"
+			],
+			[
+				"invite.",
+				"figg/notifications/templates/modals/invite.html"
+			],
+			[
+				"trackingcal",
+				"figg/notifications/templates/js/models/trackingCal.js"
+			],
+			[
+				"presen",
+				"figg/notifications/templates/js/presentation.js"
+			],
+			[
+				"urlser",
+				"figg/notifications/templates/js/urlService.js"
+			],
+			[
+				"serv",
+				"figg/notifications/templates/js/urlService.js"
+			],
+			[
+				"urlse",
+				"figg/notifications/templates/js/urlService.js"
+			],
+			[
+				"adhoc",
+				"figg/notifications/templates/js/bindingHandlers/adhocHandlers.js"
+			],
+			[
+				"head",
+				"figg/notifications/templates/headers.html"
+			],
+			[
+				"modelpage",
+				"figg/notifications/templates/modelPageView.html"
+			],
+			[
+				"headers.",
+				"figg/notifications/templates/headers.html"
+			],
+			[
+				"urlrou",
+				"figg/notifications/templates/js/urlRouter.js"
+			],
+			[
+				"user.js",
+				"figg/notifications/templates/js/models/user.js"
+			],
+			[
+				"event.js",
+				"figg/notifications/templates/js/models/event.js"
+			],
+			[
+				"pres",
+				"figg/notifications/templates/js/presentation.js"
+			],
+			[
+				"events.js",
+				"figg/front_end/node_modules/brunch/node_modules/mocha/lib/browser/events.js"
+			],
+			[
+				"modeldate",
+				"figg/notifications/templates/js/models/dateline.js"
+			],
+			[
+				"dateline",
+				"figg/front_end/static/app/main/views/main/js/dateLine.js"
+			],
+			[
+				"models/event",
+				"figg/notifications/templates/js/models/event.js"
+			],
+			[
+				"urls.p",
+				"figg/main/urls.py"
+			],
+			[
+				"models.py",
+				"figg/mainPage/models.py"
+			],
+			[
+				"event_men",
+				"figg/notifications/templates/event_menu.html"
+			],
+			[
+				"resou",
+				"figg/mainPage/resources.py"
+			],
+			[
+				"side_",
+				"figg/notifications/templates/side_bar.html"
+			],
+			[
+				"email_event",
+				"figg/notifications/templates/email_event.html"
+			],
+			[
+				"scroll",
+				"figg/notifications/templates/js/bindingHandlers/scrollSpy.js"
+			],
+			[
+				"api.",
+				"figg/mainPage/api.py"
+			],
+			[
+				"datline.js",
+				"figg/notifications/templates/js/models/dateline.js"
+			],
+			[
+				"dateline.js",
+				"figg/front_end/static/app/main/views/main/js/dateLine.js"
+			],
+			[
+				"settings.py",
+				"figg/figg/settings.py"
+			],
+			[
+				"prese",
+				"figg/notifications/templates/js/presentation.js"
+			],
+			[
+				"urlserv",
+				"figg/notifications/templates/js/urlService.js"
+			],
+			[
+				"index",
+				"figg/main/templates/index.html"
+			],
+			[
+				"model",
+				"figg/mainPage/models.py"
+			],
+			[
+				"valid",
+				"figg/common/validation.py"
+			],
+			[
+				"mainpageview",
+				"figg/mainPage/views.py"
+			],
+			[
+				"header",
+				"figg/notifications/templates/headers.html"
+			],
+			[
+				"mainurl",
+				"figg/main/urls.py"
+			],
+			[
+				"event_hold",
+				"figg/mainPage/event_holder.py"
+			],
+			[
+				"pre",
+				"figg/notifications/templates/js/presentation.js"
+			],
+			[
+				"event_menu",
+				"figg/notifications/templates/event_menu.html"
+			],
+			[
+				"side_b",
+				"figg/notifications/templates/side_bar.html"
+			],
+			[
+				"dataloa",
+				"figg/notifications/templates/js/dataLoader.js"
+			],
+			[
+				"invite.js",
+				"figg/notifications/templates/js/models/invite.js"
+			],
+			[
+				"invi",
+				"figg/notifications/templates/modals/invite.html"
+			],
+			[
+				"dataload",
+				"figg/notifications/templates/js/dataLoader.js"
+			],
+			[
+				"modals.js",
+				"figg/front_end/static/app/main/views/main/js/modals.js"
+			],
+			[
+				"extend",
+				"figg/notifications/templates/js/extenders/deferredArray.js"
+			],
+			[
+				"adho",
+				"figg/notifications/templates/js/bindingHandlers/adhocHandlers.js"
+			],
+			[
+				"fields",
+				"figg/mainPage/fields.py"
+			],
+			[
+				"eventright",
+				"figg/notifications/templates/event_right_side.html"
+			],
+			[
+				"style.sc",
+				"figg/front_end/static/app/main/views/main/css/style.scss"
+			],
+			[
+				"starter",
+				"figg/main/templates/starter.html"
+			],
+			[
+				"twitterurls",
+				"figg/twitter/urls.py"
+			],
+			[
+				"side",
+				"figg/notifications/templates/side_bar.html"
+			],
+			[
+				"email_",
+				"figg/notifications/templates/email_event.html"
+			],
+			[
+				"style",
+				"figg/front_end/static/app/main/views/main/css/style.scss"
+			],
+			[
+				"about.",
+				"about.html"
+			],
+			[
+				"binding",
+				"figg/notifications/templates/js/bindingHandlers/infiniteMenu.js"
+			],
+			[
+				"attendin",
+				"figg/notifications/templates/attending_holder.html"
+			],
+			[
+				"atten",
+				"figg/notifications/templates/attending_holder.html"
+			],
+			[
+				"tracked",
+				"figg/notifications/templates/js/models/trackedCal.js"
+			],
+			[
+				"invite.t",
+				"figg/notifications/templates/modals/invite.html"
+			],
+			[
+				"figg_calmodel",
+				"figg/figg_calendar/models.py"
+			],
+			[
+				"invite.h",
+				"figg/notifications/templates/modals/invite.html"
+			],
+			[
+				"trac",
+				"figg/notifications/templates/js/models/trackingCal.js"
+			],
+			[
+				"modelpagevi",
+				"figg/notifications/templates/modelPageView.html"
+			],
+			[
+				"index.html",
+				"figg/main/templates/index.html"
+			],
+			[
+				"trackingcalen",
+				"figg/notifications/templates/js/trackingCalendar.js"
+			],
+			[
+				"mainurls.py",
+				"figg/main/urls.py"
+			],
+			[
+				"modelpageview",
+				"figg/notifications/templates/modelPageView.html"
+			],
+			[
+				"tracingcale",
+				"figg/notifications/templates/js/trackingCalendar.js"
+			],
+			[
+				"hello.htm",
+				"figg/notifications/templates/modals/hello.html"
+			],
+			[
+				"vendor.",
+				"figg/front_end/static/public/css/vendor.css"
+			],
+			[
+				"boot",
+				"figg/front_end/static/vendor/bootstrap/js/bootstrap.js"
+			],
+			[
+				"hello.html",
+				"figg/notifications/templates/modals/hello.html"
+			],
+			[
+				"attend",
+				"figg/main/templates/attending_names_and_tags.html"
+			],
+			[
+				"hello.js",
+				"figg/notifications/templates/js/modals/hello.js"
+			],
+			[
+				"scss",
+				"static/app/views/main/css/style.scss"
+			],
+			[
+				"adhon",
+				"figg/notifications/templates/js/bindingHandlers/adhocHandlers.js"
+			],
+			[
+				"modal",
+				"figg/notifications/templates/js/bindingHandlers/modal.js"
+			],
+			[
+				"user.",
+				"figg/notifications/templates/js/models/user.js"
+			],
+			[
+				"modelpagev",
+				"figg/notifications/templates/modelPageView.html"
+			],
+			[
+				"rig",
+				"figg/notifications/templates/event_right_side.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/fredkingham/Documents/scripts/twigg/figg.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

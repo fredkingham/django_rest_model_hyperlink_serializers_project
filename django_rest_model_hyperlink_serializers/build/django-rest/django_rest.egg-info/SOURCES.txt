@@ -1,0 +1,6 @@
+setup.cfg
+setup.py
+django_rest.egg-info/PKG-INFO
+django_rest.egg-info/SOURCES.txt
+django_rest.egg-info/dependency_links.txt
+django_rest.egg-info/top_level.txt

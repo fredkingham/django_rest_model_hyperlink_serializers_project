@@ -1,0 +1,26 @@
+<html>
+<head>
+<script src="http://ajax.aspnetcdn.com/ajax/knockout/knockout-2.2.1.js"></script>
+</head>
+<body>
+
+    <div data-bind="foreach: meals">
+        <select style="display: none" data-bind="
+                options: $root.vegetables, 
+                visible: true,
+                value: vegetable,
+                optionsCaption: 'meal',
+                event: {change: function(){  alert('hello') } }
+                ">
+        </select>
+    </div>
+
+    <script>
+    var modelPageView = {};
+    modelPageView.vegetables = ko.observableArray(['cucumber', 'carrot', 'potato']);
+    modelPageView.meals = [{ name: 'lunch', vegetable: ko.observable() }];
+    ko.applyBindings(modelPageView);
+
+    </script>
+</body>
+</html>
