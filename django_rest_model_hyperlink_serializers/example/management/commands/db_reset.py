@@ -1,4 +1,4 @@
-from main.models import Team, Player
+from example.models import Team, Player
 from django.core.management.base import BaseCommand
 
 class Command(BaseCommand):

@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from setuptools import setup
+try:
+    from setuptools import setup
+except ImportError:
+    from distutils.core import setup
 import re
 import os
 import sys
@@ -15,20 +18,20 @@ def get_version(package):
     return re.match("__version__ = ['\"]([^'\"]+)['\"]", init_py).group(1)
 
 
-version = get_version('django_rest_model_hyperlink_serializers/hyperlinked_relational_serializer')
+version = get_version('hyperlinked_relational_serializer')
 
 
 setup(
     name='djangorestrelationalhyperlink',
     version=version,
-    url='http://django-rest-framework.org',
+    url='https://github.com/fredkingham/django_rest_model_hyperlink_serializers_project',
     license='BSD',
     description='A hyperlinked serialiser that can can be used to alter relationships via hyperlinks, but otherwise like a hyperlink model serializer',
     author='Fred Kingham',
     author_email='fredkingham@gmail.com',  # SEE NOTE BELOW (*)
-    packages=['django_rest_model_hyperlink_serializers.hyperlinked_relational_serializer'],
-    test_suite='django_rest_model_hyperlink_serializers.hyperlinked_relational_serializer.hl_relational_serializer_tests.runtests',
-    install_requires=['djangorestframework(>=2.3.6)'],
+    packages=['hyperlinked_relational_serializer'],
+    test_suite='hyperlinked_relational_serializer.hl_relational_serializer_tests.runtests',
+    install_requires='djangorestframework',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Environment :: Web Environment',
