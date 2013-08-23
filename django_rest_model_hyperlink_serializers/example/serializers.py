@@ -17,8 +17,7 @@ class TeamSerializer(HyperLinkedRelationalSerializer):
     player_set = PlayerSerializer(many=True, required=False)
 
     class Meta:
-        view_name = "team-detail"
-        queryset = Team.objects.all()
+        model = Team
 
 
 

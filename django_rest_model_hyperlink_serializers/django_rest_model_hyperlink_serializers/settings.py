@@ -136,7 +136,6 @@ INSTALLED_APPS = (
     'django.contrib.admin',
     'rest_framework',
     'hyperlinked_relational_serializer',
-    'hyperlinked_relational_serializer.hl_relational_serializer_tests',
 
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',

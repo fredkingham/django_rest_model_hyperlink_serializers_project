@@ -4,6 +4,7 @@ from rest_framework.serializers import Serializer, CharField, HyperlinkedModelSe
 from hyperlinked_relational_serializer.hl_relational_serializer_tests.models import Vegetable, Meal
 from rest_framework.compat import patterns, url
 from django.test.client import RequestFactory
+from rest_framework import serializers
 
 
 factory = RequestFactory()
@@ -29,7 +30,7 @@ class VegetableSerializer(HyperLinkedRelationalSerializer):
         queryset = Vegetable.objects.all()
 
 
-class MealSerializer(HyperLinkedRelationalSerializer):
+class MealSerializer(serializers.HyperlinkedModelSerializer):
     vegetable_set = VegetableSerializer(many=True, required=False)
 
     class Meta:
@@ -113,7 +114,7 @@ class TestStuff(TestCase):
         self.assertListEqual(read_serializer.data, aimed_data)
 
 
-    def test_write_as_full_object(self):
+    def test_write_as_link(self):
         quiche = Meal.objects.create(meal_name = "quiche")
         salad = Meal.objects.create(meal_name = "salad")
         spinach = Vegetable.objects.create(vegetable_name="spinach", meal=quiche)
