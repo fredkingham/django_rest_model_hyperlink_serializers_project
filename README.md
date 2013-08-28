@@ -33,11 +33,13 @@ our initial pull brings in the teams and the players ie
 but if we want to add players to a team we can use the logic of a hyper linked field, ie, only use the url
 
 ie PUT
+```
 {  
     partial: true,  
     player_set: ["http://127.0.0.1:8000/rest_api/player/13/"]  
     team_name: "team 1"  
 }  
+```
 
 
 ie we can read and write to this serializer with dictionarys like a normal serializer but we can change relations with these objects
