@@ -13,12 +13,9 @@ class PlayerSerializer(HyperLinkedRelationalSerializer):
         queryset = Player.objects.all()
 
 
-class TeamSerializer(HyperLinkedRelationalSerializer):
+class TeamSerializer(serializers.HyperlinkedModelSerializer):
     player_set = PlayerSerializer(many=True, required=False)
 
     class Meta:
         model = Team
-
-
-
 
