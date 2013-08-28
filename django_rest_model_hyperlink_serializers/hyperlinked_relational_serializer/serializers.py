@@ -59,5 +59,5 @@ class HyperLinkedRelationalSerializer(serializers.HyperlinkedModelSerializer):
                     else:
                         into[field_name].append(super(HyperLinkedRelationalSerializer, self).field_from_native(data, files, field_name, into))
             else:
-                if isinstance(data_field, str) or isinstance(data_field, unicode):
-                    into[field_name] = self.hyperlinked_related_field.from_native(data_field)
+                 if isinstance(data_fields, str) or isinstance(data_fields, unicode):
+                        into[field_name] = self.hyperlinked_related_field.from_native(data_fields)
