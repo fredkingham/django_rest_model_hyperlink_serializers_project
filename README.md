@@ -12,7 +12,7 @@ the example above is a team -> player model
 
 our initial pull brings in the teams and the players ie
 
-'''
+```
 {  
     "player_set":  
     [  
@@ -28,7 +28,7 @@ our initial pull brings in the teams and the players ie
 
     "url": "http://127.0.0.1:8000/rest_api/team/3/", "team_name": "team 3"  
 }  
-'''
+```
 
 but if we want to add players to a team we can use the logic of a hyper linked field, ie, only use the url
 
